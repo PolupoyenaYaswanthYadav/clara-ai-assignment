@@ -1,0 +1,36 @@
+{
+  "name": "clara_pipeline",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "0469b2e7-3abc-4ad5-a83c-7ca1dc0a4dbd",
+      "name": "When clicking ‘Execute workflow’"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "6588201d-d8f2-4962-879f-d9f44afa4318",
+  "meta": {
+    "instanceId": "6e64e92b898742f2f79861d9474a5708d00fc48a72699f52b694ee390c16a754"
+  },
+  "id": "7g4w9jPTVoURN3uk",
+  "tags": []
+}

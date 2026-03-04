@@ -1,0 +1,26 @@
+{
+  "account_id": "demo1",
+  "company_name": "",
+  "business_hours": {
+    "days": [],
+    "start": "",
+    "end": "",
+    "timezone": ""
+  },
+  "office_address": "",
+  "services_supported": [
+    "sprinkler service",
+    "fire alarm service"
+  ],
+  "emergency_definition": [
+    "customer reported emergency"
+  ],
+  "emergency_routing_rules": "",
+  "non_emergency_routing_rules": "",
+  "call_transfer_rules": "",
+  "integration_constraints": "",
+  "after_hours_flow_summary": "",
+  "office_hours_flow_summary": "",
+  "questions_or_unknowns": [],
+  "notes": ""
+}

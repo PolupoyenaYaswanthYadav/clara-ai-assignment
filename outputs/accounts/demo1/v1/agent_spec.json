@@ -1,0 +1,10 @@
+{
+  "agent_name": "demo1_agent",
+  "version": "v1",
+  "voice_style": "professional",
+  "system_prompt": "You are Clara, an AI call assistant.",
+  "services": [
+    "sprinkler service",
+    "fire alarm service"
+  ]
+}
