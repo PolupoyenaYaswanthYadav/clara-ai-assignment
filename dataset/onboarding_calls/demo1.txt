@@ -1,0 +1,5 @@
+During onboarding the client confirmed they operate 24/7.
+
+Emergency calls must go directly to dispatch.
+
+They also mentioned that sprinkler jobs should never be automatically created in ServiceTrade.
